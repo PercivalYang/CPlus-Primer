@@ -47,7 +47,7 @@
 
 ## 当用`istream/ostream`作为condition时
 
-- 在循环中我们可以用`istream/ostream`类型的变量作为condition，当该类型的变量为valid时循环继续，invalid时循环退出。
+- 在循环中我们可以用`istream/ostream`类型的变量作为condition，当该类型的变量为**valid**时循环继续，**invalid**时循环退出。
 
   - 示例代码：
 
